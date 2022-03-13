@@ -39,7 +39,7 @@
       alt="adampithewan" height="30" width="40" /></a>
 </p>
 
-<br> --> -->
+<br> -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
